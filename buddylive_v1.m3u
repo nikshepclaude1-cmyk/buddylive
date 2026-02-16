@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2026-02-16 03:23:52
+# Last Updated: 2026-02-16 05:14:31
 #EXTINF:-1 group-title="THETVAPP SD" tvg-ID="A&E" tvg-name="A&E" tvg-logo="https://cdn.tvpassport.com/image/station/960x540/v2/s10036_h15_aa.png", A&E
 https://v12.thetvapp.to/hls/AEEast/tracks-v1a1/mono.m3u8?token=br9zLtTWk-RjRU-2kBRp6Q&expires=1771216954&user_id=UG9ERVhhVXZqM1JONXdJSTNHdkJlTVlZd3lxbzdFTnN6OVdpOGJ6eg==
 #EXTINF:-1 group-title="THETVAPP SD" tvg-ID="ACC Network" tvg-name="ACC Network" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s111905_h15_ac.png", ACC Network
