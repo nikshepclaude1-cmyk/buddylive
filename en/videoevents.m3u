@@ -1,21 +1,29 @@
 #EXTM3U
-#EXTINF:-1 group-title="NBA",02/19/26 07:00:00 PM EST = Indiana Pacers @ Washington Wizards
+#EXTINF:-1 group-title="MLB",02/20/26 01:05:00 PM EST = New York Yankees @ Baltimore Orioles
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",02/19/26 07:10:00 PM EST = Atlanta Hawks @ Philadelphia 76ers
+#EXTINF:-1 group-title="MLB",02/20/26 03:05:00 PM EST = Chicago White Sox @ Chicago Cubs
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",02/19/26 07:10:00 PM EST = Brooklyn Nets @ Cleveland Cavaliers
+#EXTINF:-1 group-title="MLB",02/20/26 03:05:00 PM EST = Kansas City Royals @ Texas Rangers
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",02/19/26 07:10:00 PM EST = Houston Rockets @ Charlotte Hornets
+#EXTINF:-1 group-title="MLB",02/20/26 03:10:00 PM EST = Arizona Diamondbacks @ Colorado Rockies
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",02/19/26 07:40:00 PM EST = Detroit Pistons @ New York Knicks
+#EXTINF:-1 group-title="MLB",02/20/26 03:10:00 PM EST = San Diego Padres @ Seattle Mariners
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",02/19/26 08:10:00 PM EST = Toronto Raptors @ Chicago Bulls
+#EXTINF:-1 group-title="NBA",02/20/26 07:10:00 PM EST = Cleveland Cavaliers @ Charlotte Hornets
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",02/19/26 08:40:00 PM EST = Phoenix Suns @ San Antonio Spurs
+#EXTINF:-1 group-title="NBA",02/20/26 07:10:00 PM EST = Utah Jazz @ Memphis Grizzlies
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",02/19/26 10:10:00 PM EST = Boston Celtics @ Golden State Warriors
+#EXTINF:-1 group-title="NBA",02/20/26 07:15:00 PM EST = Indiana Pacers @ Washington Wizards
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",02/19/26 10:10:00 PM EST = Orlando Magic @ Sacramento Kings
+#EXTINF:-1 group-title="NBA",02/20/26 07:40:00 PM EST = Miami Heat @ Atlanta Hawks
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",02/19/26 10:40:00 PM EST = Denver Nuggets @ Los Angeles Clippers
+#EXTINF:-1 group-title="NBA",02/20/26 07:40:00 PM EST = Dallas Mavericks @ Minnesota Timberwolves
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NBA",02/20/26 08:10:00 PM EST = Brooklyn Nets @ Oklahoma City Thunder
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NBA",02/20/26 08:10:00 PM EST = Milwaukee Bucks @ New Orleans Pelicans
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NBA",02/20/26 10:10:00 PM EST = Denver Nuggets @ Portland Trail Blazers
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NBA",02/20/26 10:10:00 PM EST = Los Angeles Clippers @ Los Angeles Lakers
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
