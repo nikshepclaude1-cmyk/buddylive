@@ -1,53 +1,41 @@
 #EXTM3U
-#EXTINF:-1 group-title="MLB",03/19/26 01:05:00 PM EST = Washington Nationals @ St. Louis Cardinals
+#EXTINF:-1 group-title="MLB",03/20/26 01:05:00 PM EST = Boston Red Sox @ Tampa Bay Rays
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="MLB",03/19/26 01:05:00 PM EST = Tampa Bay Rays @ Philadelphia Phillies
+#EXTINF:-1 group-title="MLB",03/20/26 01:05:00 PM EST = Detroit Tigers @ Philadelphia Phillies
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="MLB",03/19/26 06:05:00 PM EST = New York Mets @ Houston Astros
+#EXTINF:-1 group-title="MLB",03/20/26 01:05:00 PM EST = Toronto Blue Jays @ Minnesota Twins
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="MLB",03/19/26 06:05:00 PM EST = Minnesota Twins @ Boston Red Sox
+#EXTINF:-1 group-title="MLB",03/20/26 01:10:00 PM EST = St. Louis Cardinals @ New York Mets
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="MLB",03/19/26 09:10:00 PM EST = San Francisco Giants @ Colorado Rockies
+#EXTINF:-1 group-title="MLB",03/20/26 03:10:00 PM EST = Chicago White Sox @ Los Angeles Angels
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="MLB",03/19/26 09:10:00 PM EST = Texas Rangers @ Milwaukee Brewers
+#EXTINF:-1 group-title="MLB",03/20/26 06:05:00 PM EST = Pittsburgh Pirates @ Atlanta Braves
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="MLB",03/19/26 09:10:00 PM EST = Seattle Mariners @ Athletics
+#EXTINF:-1 group-title="MLB",03/20/26 06:35:00 PM EST = Baltimore Orioles @ New York Yankees
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NHL",03/19/26 07:10:00 PM EST = Montréal Canadiens @ Detroit Red Wings
+#EXTINF:-1 group-title="MLB",03/20/26 09:05:00 PM EST = Seattle Mariners @ Cleveland Guardians
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NHL",03/19/26 07:10:00 PM EST = New York Rangers @ Columbus Blue Jackets
+#EXTINF:-1 group-title="MLB",03/20/26 09:10:00 PM EST = Milwaukee Brewers @ Arizona Diamondbacks
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NHL",03/19/26 07:10:00 PM EST = Winnipeg Jets @ Boston Bruins
+#EXTINF:-1 group-title="NHL",03/20/26 07:10:00 PM EST = New Jersey Devils @ Washington Capitals
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NHL",03/19/26 07:10:00 PM EST = New York Islanders @ Ottawa Senators
+#EXTINF:-1 group-title="NHL",03/20/26 07:10:00 PM EST = Carolina Hurricanes @ Toronto Maple Leafs
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NHL",03/19/26 07:40:00 PM EST = Chicago Blackhawks @ Minnesota Wild
+#EXTINF:-1 group-title="NHL",03/20/26 08:40:00 PM EST = Colorado Avalanche @ Chicago Blackhawks
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NHL",03/19/26 08:10:00 PM EST = Seattle Kraken @ Nashville Predators
+#EXTINF:-1 group-title="NHL",03/20/26 09:10:00 PM EST = Florida Panthers @ Calgary Flames
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NHL",03/19/26 09:10:00 PM EST = Florida Panthers @ Edmonton Oilers
+#EXTINF:-1 group-title="NHL",03/20/26 10:10:00 PM EST = Anaheim Ducks @ Utah Mammoth
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NHL",03/19/26 10:10:00 PM EST = Buffalo Sabres @ San Jose Sharks
+#EXTINF:-1 group-title="NBA",03/20/26 07:40:00 PM EST = Golden State Warriors @ Detroit Pistons
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NHL",03/19/26 10:10:00 PM EST = Tampa Bay Lightning @ Vancouver Canucks
+#EXTINF:-1 group-title="NBA",03/20/26 07:40:00 PM EST = New York Knicks @ Brooklyn Nets
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NHL",03/19/26 10:10:00 PM EST = Utah Mammoth @ Vegas Golden Knights
+#EXTINF:-1 group-title="NBA",03/20/26 08:10:00 PM EST = Portland Trail Blazers @ Minnesota Timberwolves
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NHL",03/19/26 10:40:00 PM EST = Philadelphia Flyers @ Los Angeles Kings
+#EXTINF:-1 group-title="NBA",03/20/26 08:10:00 PM EST = Boston Celtics @ Memphis Grizzlies
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",03/19/26 07:10:00 PM EST = Detroit Pistons @ Washington Wizards
+#EXTINF:-1 group-title="NBA",03/20/26 08:10:00 PM EST = Atlanta Hawks @ Houston Rockets
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",03/19/26 07:15:00 PM EST = Orlando Magic @ Charlotte Hornets
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",03/19/26 08:10:00 PM EST = Phoenix Suns @ San Antonio Spurs
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",03/19/26 08:10:00 PM EST = Los Angeles Lakers @ Miami Heat
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",03/19/26 08:10:00 PM EST = Los Angeles Clippers @ New Orleans Pelicans
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",03/19/26 08:10:00 PM EST = Cleveland Cavaliers @ Chicago Bulls
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",03/19/26 09:10:00 PM EST = Milwaukee Bucks @ Utah Jazz
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",03/19/26 10:10:00 PM EST = Philadelphia 76ers @ Sacramento Kings
+#EXTINF:-1 group-title="NBA",03/20/26 09:10:00 PM EST = Toronto Raptors @ Denver Nuggets
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
