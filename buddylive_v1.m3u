@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2026-03-23 06:45:53
+# Last Updated: 2026-03-23 08:11:18
 #EXTINF:-1 group-title="NHL",03/22/26 12:00:00 PM EST = Winnipeg Jets @ New York Rangers
 https://v13.thetvapp.to/hls/NHL02/tracks-v1a1/mono.m3u8?token=Y5TxZE_tfXGsZZu0XNb_kA&expires=1774266371&user_id=NG5xQlNKUWowbkU3VDVweERTQ1pXT05xZ0FCZ01GQjJoQnp6a1I2MA==
 #EXTINF:-1 group-title="NHL",03/22/26 12:30:00 PM EST = Colorado Avalanche @ Washington Capitals
