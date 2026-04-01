@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="NHL",03/31/26 02:30:00 PM EST = Dallas Stars vs Boston Bruins @ Mar 31 6:30 PM
-https://v3.thetvapp.to/hls/nhl05/tracks-v1a1/mono.m3u8?token=7w9uWWLoyEJrHVkwuCw_mA&expires=1775054838&user_id=VUR0U1A1REpJakR0ZklmUFhSMUJWZVhPdmZCRmpFMjlZempZbVdyUg==
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
 #EXTINF:-1 group-title="NHL",03/31/26 02:30:00 PM EST = Philadelphia Flyers vs Washington Capitals @ Mar 31 6:30 PM
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
 #EXTINF:-1 group-title="NHL",03/31/26 02:30:00 PM EST = Ottawa Senators vs Florida Panthers @ Mar 31 6:30 PM
@@ -52,7 +52,7 @@ https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
 #EXTINF:-1 group-title="NBA",03/31/26 03:30:00 PM EST = Brooklyn Nets vs Charlotte Hornets @ Mar 31 7:30 PM
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
 #EXTINF:-1 group-title="NBA",03/31/26 04:00:00 PM EST = Houston Rockets vs New York Knicks @ Mar 31 8:00 PM
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+https://e2.thetvapp.to/hls/nba05/tracks-v1a1/mono.m3u8?token=LZHqi8d66Gyu1R3YNn8WBw&expires=1775076984&user_id=VDBIQVBsbjRrZVI2d0FEV2hsNHdwME45QVZkdFNNM3h2c0NHazgwNg==
 #EXTINF:-1 group-title="NBA",03/31/26 04:00:00 PM EST = Detroit Pistons vs Toronto Raptors @ Mar 31 8:00 PM
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
 #EXTINF:-1 group-title="NBA",03/31/26 04:00:00 PM EST = Milwaukee Bucks vs Dallas Mavericks @ Mar 31 8:00 PM
